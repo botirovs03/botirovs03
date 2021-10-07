@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Saydiakhror
+- 👀 I’m interested in programming, gaming, languages...
+- 🌱 I’m currently learning JS, Japanese
+- 💞️ I’m looking to collaborate on Udevs, Rakuten...
+- 📫 How to reach me botirovs03@gmail.com
+         instagram @botirovs03
