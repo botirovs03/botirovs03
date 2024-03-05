@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Saydiakhror
-- 👀 I’m interested in programming, gaming, languages...
-- 🌱 I’m currently learning JS, Japanese
-- 💞️ I’m looking to collaborate on Udevs, Rakuten...
+- 👀 I’m interested in programming, gaming, learning languages...
+- 🌱 I can communicate in English, Japanese, Russian and Uzbek
+- ⚙️ I have a working experience in HTML, CSS, JS, Vue JS, React, ExpressJS, Asp .Net core, PHP, Laravel
 - 📫 How to reach me botirovs03@gmail.com
-         instagram @botirovs03
