@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saydiakhror
 - 👀 I’m interested in programming, gaming, learning languages...
 - 🌱 I can communicate in English, Japanese, Russian and Uzbek
-- ⚙️ I have a working experience in HTML, CSS, JS, Vue JS, React, ExpressJS, Asp .Net core, PHP, Laravel
+- ⚙️ I have a working experience in HTML, CSS, JS, TS, Vue JS, React, Angular, ExpressJS, C#, Asp .Net core, PHP, Laravel, Python, FastApi, Go, GIN
 - 📫 How to reach me botirovs03@gmail.com
